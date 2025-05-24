@@ -1,0 +1,3 @@
+git add .
+git commit -m "Carga IBGE diária"
+git push
